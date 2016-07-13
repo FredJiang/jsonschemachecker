@@ -20,7 +20,7 @@
     "name": "fredjiang",
     "email": "fred270130108@gmail.com"
   },
-   "keywords": [
+  "keywords": [
     "json",
     "schema",
     "structure",
@@ -41,5 +41,9 @@
     "tarball": "http://registry.npmjs.org/jsonschemachecker/-/jsonschemachecker-1.0.1.tgz"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/jsonschemachecker/-/jsonschemachecker-1.0.1.tgz"
+  "_resolved": "https://registry.npmjs.org/jsonschemachecker/-/jsonschemachecker-1.0.1.tgz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FredJiang/jsonschemachecker.git"
+  }
 }
