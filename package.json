@@ -1,10 +1,10 @@
 {
     "name": "jsonschemachecker",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "* boolean * string * number * array * object * \"\"(just check existence)",
     "main": "./lib/jsonschemachecker.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "mocha ./test/test.js"
     },
     "author": {
         "name": "Fred Jiang",
