@@ -1,5 +1,8 @@
 node_modules/
 node-schedule.tmproj
+npm-debug.log
 *.DS_Store
 *.idea/
 *.log
+
+
